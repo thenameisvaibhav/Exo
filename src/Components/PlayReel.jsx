@@ -47,7 +47,7 @@ const PlayReel = () => {
             muted
             loop
             className="w-full h-full object-cover absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
-            src="https://download-video-ak.vimeocdn.com/v3-1/playback/334619e0-f92f-4627-ba88-dfe521b4e062/9e976370?__token__=st=1744357091~exp=1744371491~acl=%2Fv3-1%2Fplayback%2F334619e0-f92f-4627-ba88-dfe521b4e062%2F9e976370%2A~hmac=e7e7e2bb3a1f783266ba2b4644c7c094e4277b876f53ba03a65eadcfb307725f&r=dXMtY2VudHJhbDE%3D"
+            src="./PlayReel.mp4"
           ></video>
         </div>
         <div className="overlay absolute w-full h-full text-white flex flex-col justify-between p-20">
